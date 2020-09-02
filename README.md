@@ -1,4 +1,4 @@
-# Tigo Telecom Python Basics For Data Science Program
+# Tigo Telecom mobile subscription plan Computational Program
 
 ## Author: Richard Taracha
 
