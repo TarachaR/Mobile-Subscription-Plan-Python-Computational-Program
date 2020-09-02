@@ -20,4 +20,4 @@ Tigo Telcom provides a mobile subscription plan that has 200 minutes of airtime 
 * Output is in the form of a SMS message. 
 * The charges incurred need are displayed to 2 decimal places. 
 
-Ship_Crew_Size_ML_Model.ipynb: the jupyter notebook containing code.
+(Tigo Telecom) Python Basics For Data Science.ipynb: the jupyter notebook containing code.
