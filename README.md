@@ -7,10 +7,10 @@
 ### Table of Contents
 
 - [Background](#Background)
-- [Instructions](#how-to-use)
-- [Project Deliverable](#references)
-- [Some few things to note](#license)
-- [Author Information](#author-info)
+- [Instructions](#Instructions)
+- [Project Deliverable](#Project Deliverable)
+- [Some few things to note](#Some few things to note)
+- [Author Information](#Author Information)
 
 ---
 
