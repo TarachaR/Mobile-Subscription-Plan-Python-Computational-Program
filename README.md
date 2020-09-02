@@ -6,7 +6,7 @@
 
 ### Table of Contents
 
-- [Background](#description)
+- [Background](#Background)
 - [Instructions](#how-to-use)
 - [Project Deliverable](#references)
 - [Some few things to note](#license)
