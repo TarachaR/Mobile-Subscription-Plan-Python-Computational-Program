@@ -8,7 +8,7 @@
 
 - [Background](#Background)
 - [Instructions](#Instructions)
-- [Project Deliverable](#Project_Deliverable)
+- [Project Deliverable](#Project-Deliverable)
 - [Some few things to note](#Some few things to note)
 - [Author Information](#Author Information)
 
