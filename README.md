@@ -38,7 +38,7 @@ Tigo Telcom provides a mobile subscription plan that has 200 minutes of airtime 
 ---
 
 ## Project Deliverable
-* Deliverable will be a python notebook that will contain your solution. 
+* Deliverable will be a python notebook that contains my solution. 
 
 [Back To The Top](#read-me-template)
 
