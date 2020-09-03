@@ -1,4 +1,7 @@
 # Tigo Telecom mobile subscription plan Computational Program
+Author: Richard Taracha
+
+Date: 08/04/2020
 
 ![tigo logo](https://user-images.githubusercontent.com/67068918/92004520-fc088100-ed4a-11ea-990b-d131ecc2dac4.png)
 
