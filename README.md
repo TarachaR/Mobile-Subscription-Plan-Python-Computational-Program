@@ -9,6 +9,7 @@ Date: 08/04/2020
 
 ### Table of Contents
 
+Sections headers used to reference locations of each destination:
 - [Background](#Background)
 - [Instructions](#Instructions)
 - [Project Deliverable](#Project-Deliverable)
